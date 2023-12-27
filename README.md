@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-solution-using-scss-flexbox-grid-_vpqzuemcn)
 - Live Site URL: [Live Site](https://kaantkin.github.io/Blog-Preview-Card-FM/)
 
 ## My process
